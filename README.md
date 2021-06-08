@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MrTokmann
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Python
+- I’m from Finland/Suomi
